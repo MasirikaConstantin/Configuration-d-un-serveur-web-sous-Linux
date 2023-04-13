@@ -1,5 +1,6 @@
 # Groupe_26
-Le Sujet est : Installation d'un serveur web sous Unix
+Le Sujet est : 
+                                                  Configuration d'un serveur web sous Linux
 
 Dans ce fichier nous allons expliciter tous les processus poursouivis pour arriver à installer le server Web Sous linux
 Pour notre projet nous avons choisit la distribution Ubuntu pour réaliser ce travail. 
